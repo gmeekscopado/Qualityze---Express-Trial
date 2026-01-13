@@ -180,4 +180,8 @@
         <name>standard__Integration</name>
         <type>CustomApplication</type>
     </appMenuItems>
+    <appMenuItems>
+        <name>Qualityze_Test</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
 </AppMenu>
