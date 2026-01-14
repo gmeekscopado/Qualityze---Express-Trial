@@ -12,38 +12,6 @@
     <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
     <label>Qualityze Test</label>
     <navType>Standard</navType>
-    <profileActionOverrides>
-        <actionName>View</actionName>
-        <content>Bicycle</content>
-        <formFactor>Small</formFactor>
-        <pageOrSobjectType>Bicycle__c</pageOrSobjectType>
-        <type>Flexipage</type>
-        <profile>Admin</profile>
-    </profileActionOverrides>
-    <profileActionOverrides>
-        <actionName>View</actionName>
-        <content>Bicycle</content>
-        <formFactor>Large</formFactor>
-        <pageOrSobjectType>Bicycle__c</pageOrSobjectType>
-        <type>Flexipage</type>
-        <profile>Admin</profile>
-    </profileActionOverrides>
-    <profileActionOverrides>
-        <actionName>View</actionName>
-        <content>Bicycle</content>
-        <formFactor>Small</formFactor>
-        <pageOrSobjectType>Bicycle__c</pageOrSobjectType>
-        <type>Flexipage</type>
-        <profile>Admin</profile>
-    </profileActionOverrides>
-    <profileActionOverrides>
-        <actionName>View</actionName>
-        <content>Bicycle</content>
-        <formFactor>Large</formFactor>
-        <pageOrSobjectType>Bicycle__c</pageOrSobjectType>
-        <type>Flexipage</type>
-        <profile>Admin</profile>
-    </profileActionOverrides>
     <tabs>Bicycle__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Qualityze_Test_UtilityBar</utilityBar>
